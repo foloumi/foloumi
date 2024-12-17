@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Faraz! Researcher and technical lead with a focus on medical and computer-aided-diagnostic-software development
-- 👀 I’m interested in image processing, diagnostic screening tools, entrepreneurship, hardware, and competitive team-based FPS games
-- 🌱 I’m currently learning about various standards related to medical software development as well as smart contracting
+- 👀 I’m interested in image processing, diagnostic-screening tools, entrepreneurship, computer hardware, and competitive team-based FPS games
+- 🌱 I’m currently learning about various standards related to medical-software development and embedded electronics and software development
 - 📫 You can reach me via email @ faraz.oloumi@gmail.com
 
 <!---
